@@ -1,6 +1,6 @@
 📘 Relación de Ejercicios en ReactJS
 
-Colección de ejercicios prácticos en ReactJS para practicar componentes, estado, props, eventos y manejo del DOM de manera reactiva.
+Colección de ejercicios prácticos en ReactJS para practicar componentes, estado, hooks, eventos y rutas usando React Router.
 
 
 
@@ -25,13 +25,19 @@ Contador de Palabras y Caracteres ✍️ – Conteo en vivo + reset usando hooks
 
 Lista de Tareas ✅ – Añadir, eliminar y marcar tareas como completadas. Persistencia opcional usando LocalStorage.
 
-🌍 Relación de Ejercicios en ReactJS
+🌍 Ver los Ejercicios
 
-Todas las rutas usan React Router (HashRouter) para que funcione correctamente en GitHub Pages.
+Todas las rutas usan HashRouter para que funcionen correctamente en GitHub Pages.
 
 ⚡ Tecnologías
 
-ReactJS, JavaScript, Hooks (useState, useEffect), React Router.
+ReactJS
+
+JavaScript
+
+Hooks: useState, useEffect
+
+React Router
 
 👨‍💻 Autor
 
