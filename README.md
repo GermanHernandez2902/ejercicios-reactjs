@@ -1,16 +1,41 @@
-# React + Vite
+📘 Relación de Ejercicios en ReactJS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Colección de ejercicios prácticos en ReactJS para practicar componentes, estado, props, eventos y manejo del DOM de manera reactiva.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🚀 Ejercicios Incluidos
 
-## Expanding the ESLint configuration
+Cambiador de Color 🎨 – Cambia el color de fondo dinámicamente usando useState.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Contador de Clics 🖱️ – Botón que cuenta clics y tiene reinicio con estado React.
+
+Lista Dinámica 📝 – Añadir y eliminar elementos de una lista usando useState.
+
+Filtro de Búsqueda 🔎 – Filtra elementos en tiempo real dentro de un componente React.
+
+Calculadora Sencilla ➕➖✖️➗ – Operaciones con validación usando componentes y estado.
+
+Temporizador ⏱️ – Iniciar, pausar, reanudar y reiniciar con useEffect y useState.
+
+Generador de Contraseñas 🔐 – Genera contraseñas seguras según longitud, con estado React.
+
+Contador de Palabras y Caracteres ✍️ – Conteo en vivo + reset usando hooks.
+
+Lista de Tareas ✅ – Añadir, eliminar y marcar tareas como completadas. Persistencia opcional usando LocalStorage.
+
+🌍 Relación de Ejercicios en ReactJS
+
+Todas las rutas usan React Router (HashRouter) para que funcione correctamente en GitHub Pages.
+
+⚡ Tecnologías
+
+ReactJS, JavaScript, Hooks (useState, useEffect), React Router.
+
+👨‍💻 Autor
+
+Desarrollado por German Hernandez
+📧 german.hernandez2902@gmail.com
+
+📱 +57 3196022171
